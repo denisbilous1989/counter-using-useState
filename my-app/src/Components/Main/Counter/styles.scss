@@ -1,0 +1,17 @@
+.counter {
+  margin: 15px;
+  border: 2px solid blue;
+  width: 150px;
+  height: 150px;
+  padding: 10px 30px;
+
+  .number {
+    color: rgb(66, 39, 220);
+    margin-bottom: 30px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: rgb(173, 233, 215);
+    font-size: 30px;
+  }
+}
